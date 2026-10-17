@@ -11,7 +11,7 @@ repeat countries across time, so they are not independent observations.
 
 ## Capstone deliverables
 
-1. **[GitHub repository]** —
+1. **[GitHub repository]https://github.com/martinmragui-prog/PHYDATA-FINAL/tree/main** —
    project source, environment files, notebook, and data.
 2. **[Live Streamlit app](https://phydatacapstone-grvwrnxrgiubtkdkvpnzuf.streamlit.app/)**
    — deployed on Streamlit Community Cloud.
